@@ -1,0 +1,242 @@
+﻿Group,Clear,Useful,Interesting,Total,Sheet,Validity
+1 - Functional illiteracy,2,2,2,2.00,Sheet 1,Valid
+2 - Starbucks,2,2,2,2.00,Sheet 1,Valid
+3 - Coca-Cola,1,1,1,1.00,Sheet 1,Valid
+5 - The Future of Translation,3,2,2,2.33,Sheet 1,Valid
+6 - Palm Oil,2,1,2,1.67,Sheet 1,Valid
+7 - Legnano's Palio,3,1,0,1.33,Sheet 1,Valid
+8 - Drowning First Aid,2,0,0,0.67,Sheet 1,Valid
+9 - WhatsApp,2,2,2,2.00,Sheet 1,Valid
+1 - Functional illiteracy,3,2,2,2.33,Sheet 2,Valid
+2 - Starbucks,2,2,2,2.00,Sheet 2,Valid
+3 - Coca-Cola,1,1,1,1.00,Sheet 2,Valid
+5 - The Future of Translation,2,2,3,2.33,Sheet 2,Valid
+6 - Palm Oil,2,2,1,1.67,Sheet 2,Valid
+7 - Legnano's Palio,2,1,0,1.00,Sheet 2,Valid
+8 - Drowning First Aid,1,1,1,1.00,Sheet 2,Valid
+9 - WhatsApp,2,2,2,2.00,Sheet 2,Valid
+1 - Functional illiteracy,2,2,2,2.00,Sheet 3,Valid
+2 - Starbucks,3,2,2,2.33,Sheet 3,Valid
+3 - Coca-Cola,1,2,1,1.33,Sheet 3,Valid
+5 - The Future of Translation,3,2,2,2.33,Sheet 3,Valid
+6 - Palm Oil,3,2,1,2.00,Sheet 3,Valid
+7 - Legnano's Palio,3,1,0,1.33,Sheet 3,Valid
+8 - Drowning First Aid,0,1,0,0.33,Sheet 3,Valid
+9 - WhatsApp,3,2,1,2.00,Sheet 3,Valid
+1 - Functional illiteracy,3,3,2,2.67,Sheet 4,Valid
+2 - Starbucks,3,2,3,2.67,Sheet 4,Valid
+3 - Coca-Cola,3,2,2,2.33,Sheet 4,Valid
+4 - Quentin Tarantino,3,3,2,2.67,Sheet 4,Valid
+5 - The Future of Translation,3,3,3,3.00,Sheet 4,Valid
+6 - Palm Oil,3,3,3,3.00,Sheet 4,Valid
+8 - Drowning First Aid,3,3,3,3.00,Sheet 4,Valid
+9 - WhatsApp,3,3,2,2.67,Sheet 4,Valid
+1 - Functional illiteracy,1,0,0,0.33,Sheet 5,Valid
+2 - Starbucks,2,0,0,0.67,Sheet 5,Valid
+3 - Coca-Cola,1,0,1,0.67,Sheet 5,Valid
+4 - Quentin Tarantino,1,0,0,0.33,Sheet 5,Valid
+5 - The Future of Translation,2,2,2,2.00,Sheet 5,Valid
+6 - Palm Oil,2,1,1,1.33,Sheet 5,Valid
+7 - Legnano's Palio,2,0,0,0.67,Sheet 5,Valid
+9 - WhatsApp,2,1,0,1.00,Sheet 5,Valid
+1 - Functional illiteracy,1,2,1,1.33,Sheet 6,Valid
+2 - Starbucks,3,1,2,2.00,Sheet 6,Valid
+3 - Coca-Cola,2,1,2,1.67,Sheet 6,Valid
+4 - Quentin Tarantino,2,1,2,1.67,Sheet 6,Valid
+6 - Palm Oil,2,3,3,2.67,Sheet 6,Valid
+7 - Legnano's Palio,2,0,0,0.67,Sheet 6,Valid
+8 - Drowning First Aid,2,2,3,2.33,Sheet 6,Valid
+9 - WhatsApp,3,2,2,2.33,Sheet 6,Valid
+1 - Functional illiteracy,2,2,2,2.00,Sheet 7,Valid
+3 - Coca-Cola,3,2,3,2.67,Sheet 7,Valid
+4 - Quentin Tarantino,3,3,3,3.00,Sheet 7,Valid
+5 - The Future of Translation,3,2,3,2.67,Sheet 7,Valid
+6 - Palm Oil,2,3,3,2.67,Sheet 7,Valid
+7 - Legnano's Palio,2,1,1,1.33,Sheet 7,Valid
+8 - Drowning First Aid,2,3,2,2.33,Sheet 7,Valid
+9 - WhatsApp,3,2,2,2.33,Sheet 7,Valid
+1 - Functional illiteracy,2,2,1,1.67,Sheet 8,Valid
+3 - Coca-Cola,2,2,3,2.33,Sheet 8,Valid
+4 - Quentin Tarantino,1,2,3,2.00,Sheet 8,Valid
+5 - The Future of Translation,2,2,2,2.00,Sheet 8,Valid
+6 - Palm Oil,2,2,2,2.00,Sheet 8,Valid
+7 - Legnano's Palio,2,0,1,1.00,Sheet 8,Valid
+8 - Drowning First Aid,2,3,2,2.33,Sheet 8,Valid
+9 - WhatsApp,1,2,2,1.67,Sheet 8,Valid
+1 - Functional illiteracy,2,3,2,2.33,Sheet 9,Invalid
+2 - Starbucks,3,2,3,2.67,Sheet 9,Invalid
+3 - Coca-Cola,2,2,2,2.00,Sheet 9,Invalid
+4 - Quentin Tarantino,3,3,3,3.00,Sheet 9,Invalid
+5 - The Future of Translation,2,3,3,2.67,Sheet 9,Invalid
+6 - Palm Oil,2,2,2,2.00,Sheet 9,Invalid
+7 - Legnano's Palio,2,2,3,2.33,Sheet 9,Invalid
+8 - Drowning First Aid,2,3,2,2.33,Sheet 9,Invalid
+9 - WhatsApp,2,3,3,2.67,Sheet 9,Invalid
+1 - Functional illiteracy,2,2,3,2.33,Sheet 10,Valid
+2 - Starbucks,2,3,3,2.67,Sheet 10,Valid
+3 - Coca-Cola,2,2,2,2.00,Sheet 10,Valid
+4 - Quentin Tarantino,2,2,2,2.00,Sheet 10,Valid
+5 - The Future of Translation,3,3,3,3.00,Sheet 10,Valid
+6 - Palm Oil,2,3,3,2.67,Sheet 10,Valid
+8 - Drowning First Aid,3,3,2,2.67,Sheet 10,Valid
+9 - WhatsApp,2,2,3,2.33,Sheet 10,Valid
+1 - Functional illiteracy,2,3,2,2.33,Sheet 11,Valid
+2 - Starbucks,2,1,2,1.67,Sheet 11,Valid
+3 - Coca-Cola,1,2,3,2.00,Sheet 11,Valid
+4 - Quentin Tarantino,2,2,3,2.33,Sheet 11,Valid
+5 - The Future of Translation,3,3,3,3.00,Sheet 11,Valid
+6 - Palm Oil,3,3,3,3.00,Sheet 11,Valid
+7 - Legnano's Palio,3,2,3,2.67,Sheet 11,Valid
+8 - Drowning First Aid,3,3,3,3.00,Sheet 11,Valid
+1 - Functional illiteracy,1,2,1,1.33,Sheet 12,Valid
+2 - Starbucks,0,1,0,0.33,Sheet 12,Valid
+3 - Coca-Cola,1,1,2,1.33,Sheet 12,Valid
+4 - Quentin Tarantino,1,1,2,1.33,Sheet 12,Valid
+5 - The Future of Translation,2,2,2,2.00,Sheet 12,Valid
+6 - Palm Oil,1,1,1,1.00,Sheet 12,Valid
+7 - Legnano's Palio,2,1,2,1.67,Sheet 12,Valid
+8 - Drowning First Aid,1,2,3,2.00,Sheet 12,Valid
+1 - Functional illiteracy,1,2,1,1.33,Sheet 13,Valid
+2 - Starbucks,0,1,2,1.00,Sheet 13,Valid
+3 - Coca-Cola,1,2,1,1.33,Sheet 13,Valid
+4 - Quentin Tarantino,1,1,2,1.33,Sheet 13,Valid
+5 - The Future of Translation,2,3,2,2.33,Sheet 13,Valid
+6 - Palm Oil,1,1,1,1.00,Sheet 13,Valid
+7 - Legnano's Palio,2,2,1,1.67,Sheet 13,Valid
+8 - Drowning First Aid,1,2,3,2.00,Sheet 13,Valid
+1 - Functional illiteracy,1,1,1,1.00,Sheet 14,Valid
+2 - Starbucks,1,1,2,1.33,Sheet 14,Valid
+3 - Coca-Cola,0,1,2,1.00,Sheet 14,Valid
+4 - Quentin Tarantino,1,0,0,0.33,Sheet 14,Valid
+5 - The Future of Translation,3,3,3,3.00,Sheet 14,Valid
+6 - Palm Oil,2,3,3,2.67,Sheet 14,Valid
+7 - Legnano's Palio,1,0,0,0.33,Sheet 14,Valid
+8 - Drowning First Aid,3,3,3,3.00,Sheet 14,Valid
+1 - Functional illiteracy,1,1,1,1.00,Sheet 15,Valid
+2 - Starbucks,2,1,2,1.67,Sheet 15,Valid
+3 - Coca-Cola,1,2,3,2.00,Sheet 15,Valid
+4 - Quentin Tarantino,1,1,1,1.00,Sheet 15,Valid
+5 - The Future of Translation,3,3,3,3.00,Sheet 15,Valid
+6 - Palm Oil,3,3,3,3.00,Sheet 15,Valid
+7 - Legnano's Palio,2,1,1,1.33,Sheet 15,Valid
+8 - Drowning First Aid,3,3,3,3.00,Sheet 15,Valid
+1 - Functional illiteracy,2,2,3,2.33,Sheet 16,Invalid
+2 - Starbucks,3,2,2,2.33,Sheet 16,Invalid
+3 - Coca-Cola,2,1,2,1.67,Sheet 16,Invalid
+4 - Quentin Tarantino,2,1,2,1.67,Sheet 16,Invalid
+5 - The Future of Translation,2,3,3,2.67,Sheet 16,Invalid
+6 - Palm Oil,2,2,3,2.33,Sheet 16,Invalid
+7 - Legnano's Palio,2,1,2,1.67,Sheet 16,Invalid
+8 - Drowning First Aid,2,2,3,2.33,Sheet 16,Invalid
+9 - WhatsApp,2,2,3,2.33,Sheet 16,Invalid
+1 - Functional illiteracy,2,2,2,2.00,Sheet 17,Valid
+2 - Starbucks,2,2,3,2.33,Sheet 17,Valid
+4 - Quentin Tarantino,2,1,2,1.67,Sheet 17,Valid
+5 - The Future of Translation,2,2,2,2.00,Sheet 17,Valid
+6 - Palm Oil,2,2,2,2.00,Sheet 17,Valid
+7 - Legnano's Palio,2,2,2,2.00,Sheet 17,Valid
+8 - Drowning First Aid,2,2,2,2.00,Sheet 17,Valid
+9 - WhatsApp,2,2,2,2.00,Sheet 17,Valid
+1 - Functional illiteracy,1,2,2,1.67,Sheet 18,Valid
+2 - Starbucks,3,2,2,2.33,Sheet 18,Valid
+3 - Coca-Cola,2,1,2,1.67,Sheet 18,Valid
+4 - Quentin Tarantino,1,1,2,1.33,Sheet 18,Valid
+6 - Palm Oil,3,2,2,2.33,Sheet 18,Valid
+7 - Legnano's Palio,2,1,1,1.33,Sheet 18,Valid
+8 - Drowning First Aid,2,3,2,2.33,Sheet 18,Valid
+9 - WhatsApp,2,2,2,2.00,Sheet 18,Valid
+1 - Functional illiteracy,3,2,3,2.67,Sheet 19,Valid
+3 - Coca-Cola,2,3,3,2.67,Sheet 19,Valid
+4 - Quentin Tarantino,3,3,2,2.67,Sheet 19,Valid
+5 - The Future of Translation,3,3,3,3.00,Sheet 19,Valid
+6 - Palm Oil,3,3,3,3.00,Sheet 19,Valid
+7 - Legnano's Palio,3,2,2,2.33,Sheet 19,Valid
+8 - Drowning First Aid,2,3,2,2.33,Sheet 19,Valid
+9 - WhatsApp,2,2,3,2.33,Sheet 19,Valid
+1 - Functional illiteracy,3,2,3,2.67,Sheet 20,Valid
+3 - Coca-Cola,1,2,2,1.67,Sheet 20,Valid
+4 - Quentin Tarantino,2,2,2,2.00,Sheet 20,Valid
+5 - The Future of Translation,3,3,3,3.00,Sheet 20,Valid
+6 - Palm Oil,3,2,3,2.67,Sheet 20,Valid
+7 - Legnano's Palio,2,1,1,1.33,Sheet 20,Valid
+8 - Drowning First Aid,1,2,1,1.33,Sheet 20,Valid
+9 - WhatsApp,3,2,2,2.33,Sheet 20,Valid
+1 - Functional illiteracy,2,2,3,2.33,Sheet 21,Valid
+3 - Coca-Cola,2,3,3,2.67,Sheet 21,Valid
+4 - Quentin Tarantino,2,2,3,2.33,Sheet 21,Valid
+5 - The Future of Translation,3,3,3,3.00,Sheet 21,Valid
+6 - Palm Oil,3,2,3,2.67,Sheet 21,Valid
+7 - Legnano's Palio,2,2,3,2.33,Sheet 21,Valid
+8 - Drowning First Aid,1,2,2,1.67,Sheet 21,Valid
+9 - WhatsApp,2,2,3,2.33,Sheet 21,Valid
+1 - Functional illiteracy,2,2,2,2.00,Sheet 22,Valid
+2 - Starbucks,2,2,2,2.00,Sheet 22,Valid
+4 - Quentin Tarantino,2,1,1,1.33,Sheet 22,Valid
+5 - The Future of Translation,2,2,2,2.00,Sheet 22,Valid
+6 - Palm Oil,2,3,3,2.67,Sheet 22,Valid
+7 - Legnano's Palio,2,1,0,1.00,Sheet 22,Valid
+8 - Drowning First Aid,3,3,3,3.00,Sheet 22,Valid
+9 - WhatsApp,3,1,2,2.00,Sheet 22,Valid
+1 - Functional illiteracy,0,0,0,0.00,Sheet 23,Valid
+2 - Starbucks,2,1,1,1.33,Sheet 23,Valid
+3 - Coca-Cola,2,2,2,2.00,Sheet 23,Valid
+4 - Quentin Tarantino,0,1,1,0.67,Sheet 23,Valid
+7 - Legnano's Palio,2,1,1,1.33,Sheet 23,Valid
+8 - Drowning First Aid,1,2,2,1.67,Sheet 23,Valid
+9 - WhatsApp,2,1,1,1.33,Sheet 23,Valid
+1 - Functional illiteracy,2,1,0,1.00,Sheet 24,Valid
+2 - Starbucks,2,1,2,1.67,Sheet 24,Valid
+4 - Quentin Tarantino,2,1,1,1.33,Sheet 24,Valid
+5 - The Future of Translation,3,2,3,2.67,Sheet 24,Valid
+6 - Palm Oil,2,3,3,2.67,Sheet 24,Valid
+7 - Legnano's Palio,1,1,1,1.00,Sheet 24,Valid
+8 - Drowning First Aid,1,2,2,1.67,Sheet 24,Valid
+9 - WhatsApp,2,1,1,1.33,Sheet 24,Valid
+1 - Functional illiteracy,2,1,1,1.33,Sheet 25,Valid
+2 - Starbucks,2,1,1,1.33,Sheet 25,Valid
+3 - Coca-Cola,2,2,3,2.33,Sheet 25,Valid
+4 - Quentin Tarantino,2,1,1,1.33,Sheet 25,Valid
+5 - The Future of Translation,3,2,3,2.67,Sheet 25,Valid
+7 - Legnano's Palio,1,1,1,1.00,Sheet 25,Valid
+8 - Drowning First Aid,2,3,2,2.33,Sheet 25,Valid
+9 - WhatsApp,2,1,1,1.33,Sheet 25,Valid
+1 - Functional illiteracy,2,1,2,1.67,Sheet 26,Valid
+2 - Starbucks,2,1,1,1.33,Sheet 26,Valid
+3 - Coca-Cola,3,2,3,2.67,Sheet 26,Valid
+5 - The Future of Translation,3,3,3,3.00,Sheet 26,Valid
+8 - Drowning First Aid,3,3,3,3.00,Sheet 26,Valid
+9 - WhatsApp,2,0,1,1.00,Sheet 26,Valid
+1 - Functional illiteracy,2,1,2,1.67,Sheet 27,Valid
+2 - Starbucks,1,2,2,1.67,Sheet 27,Valid
+3 - Coca-Cola,0,1,1,0.67,Sheet 27,Valid
+5 - The Future of Translation,2,2,2,2.00,Sheet 27,Valid
+6 - Palm Oil,2,2,1,1.67,Sheet 27,Valid
+7 - Legnano's Palio,2,1,1,1.33,Sheet 27,Valid
+8 - Drowning First Aid,1,2,2,1.67,Sheet 27,Valid
+2 - Starbucks,2,1,2,1.67,Sheet 28,Valid
+3 - Coca-Cola,1,1,1,1.00,Sheet 28,Valid
+4 - Quentin Tarantino,3,3,2,2.67,Sheet 28,Valid
+5 - The Future of Translation,3,3,3,3.00,Sheet 28,Valid
+6 - Palm Oil,2,2,2,2.00,Sheet 28,Valid
+7 - Legnano's Palio,3,3,2,2.67,Sheet 28,Valid
+8 - Drowning First Aid,0,1,3,1.33,Sheet 28,Valid
+9 - WhatsApp,2,2,1,1.67,Sheet 28,Valid
+2 - Starbucks,2,1,2,1.67,Sheet 29,Valid
+3 - Coca-Cola,1,1,1,1.00,Sheet 29,Valid
+4 - Quentin Tarantino,2,2,3,2.33,Sheet 29,Valid
+5 - The Future of Translation,3,3,3,3.00,Sheet 29,Valid
+6 - Palm Oil,1,2,2,1.67,Sheet 29,Valid
+7 - Legnano's Palio,2,1,2,1.67,Sheet 29,Valid
+8 - Drowning First Aid,0,0,0,0.00,Sheet 29,Valid
+9 - WhatsApp,1,1,1,1.00,Sheet 29,Valid
+1 - Functional illiteracy,1,0,0,0.33,Sheet 30,Valid
+2 - Starbucks,2,0,0,0.67,Sheet 30,Valid
+3 - Coca-Cola,2,1,2,1.67,Sheet 30,Valid
+4 - Quentin Tarantino,1,0,2,1.00,Sheet 30,Valid
+5 - The Future of Translation,3,2,2,2.33,Sheet 30,Valid
+6 - Palm Oil,2,2,2,2.00,Sheet 30,Valid
+7 - Legnano's Palio,1,1,1,1.00,Sheet 30,Valid
+9 - WhatsApp,2,2,2,2.00,Sheet 30,Valid
+4 - Quentin Tarantino,3,1,2,2.00,Sheet 26,Valid
+4 - Quentin Tarantino,2,1,1,1.33,Sheet 27,Valid
+5 - The Future of Translation,2,2,2,2.00,Sheet 23,Valid
